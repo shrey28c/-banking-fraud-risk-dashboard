@@ -75,3 +75,5 @@ banking-fraud-risk-dashboard/
 2. Open `dashboard/banking_fraud_risk_dashboard.pbix` in Power BI Desktop
 3. If prompted, point the data source to `data/credit_risk_dataset.csv`
 4. Explore the dashboard using the slicers to filter by Age Group, Credit Score, or Income Group
+
+ ![Dashboard Screenshot](screenshots/dashboard_overview.png)
